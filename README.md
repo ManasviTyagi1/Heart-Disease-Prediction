@@ -86,7 +86,7 @@ Evaluation metrics used:
 1. *Clone the repository*
 
    bash
-   git clone https://github.com/yourusername/Heart-Disease-Prediction.git
+   https://github.com/ManasviTyagi1/Heart-Disease-Prediction/blob/main/README.md
    cd Heart-Disease-Prediction
    
 
